@@ -1,0 +1,12 @@
+Using a skin-safe marker, a set distance of 4.5 centimetres was measured from the carpal bones of the wrist, as this probe placement displayed the best view of the target muscles. 
+The target point was marked to maintain a consistent distance during data collection. 
+Ultrasound setup: 
+> The Esaote Mylab 25 gold portable ultrasound 
+>	Esaote LA435 linear probe
+>	Frequency set at 18MHz
+>	Depth at 4cm
+Then, multiple images were taken while performing each hand gesture. 
+After each gesture, it was reset by the participant relaxing their hand and then performing the gesture again. 
+This cycle was repeated until at least 50 images were captured for each gesture. This process was performed for all of the hand gestures. 
+Then, the data was sorted into individual folders corresponding to specific hand gestures and fed into MATLAB code to be cropped and grey-scaled (same code as used for online data). 
+This resulted in labelled dataset of 245 images.
